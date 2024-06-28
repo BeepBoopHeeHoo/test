@@ -1,0 +1,15 @@
+html {
+    width: 100%;
+    height: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#testbtn {
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
